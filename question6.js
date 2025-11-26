@@ -2,7 +2,7 @@
 // Slutför funktionen calculateTotalPrice som tar emot en array med
 // produkter som input och returnerar det totala priset
 
-const products = [
+const products1 = [
   { name: "Shirt", brand: "Nike", model: "Dri-Fit", price: 45 },
   { name: "Jeans", brand: "Levis", model: "501", price: 95 },
 ];
@@ -19,5 +19,5 @@ function calculateTotalPrice(shoppingCart) {
  
 }
 
-console.log(calculateTotalPrice(products)); // Ska logga 140
+console.log(calculateTotalPrice(products1)); // Ska logga 140
 console.log(calculateTotalPrice(products2)); // Ska logga 335

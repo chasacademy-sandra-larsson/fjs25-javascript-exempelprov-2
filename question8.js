@@ -3,7 +3,7 @@
 // Använd fetch och async/await, samt felhantering medd try/catch. 
 // Använd valfri metod för att begränsa antalet todo-objekt till 20 (utan att ändra i url).
 // Använd filter för att filtrera ut de  todo-objekten som har completed: true. 
-// Rendera ut vardera objekts 'title' i ul-elementet med id "todoList"
+// Rendera ut vardera objekts 'title' i ul-elementet med id="todoList"
 
 
 // Din kod här:

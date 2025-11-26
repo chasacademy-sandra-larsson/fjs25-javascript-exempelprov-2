@@ -1,6 +1,6 @@
 // Fråga 3. (3p) 
 // Generera en lista av li-element med hjälp arraymetoden map 
-// och visa den i index.html i ul-elementet med id movieList
+// och visa den i index.html i ul-elementet med id="movieList"
 
 const movies = [
     { title: "The Matrix", year: 1999 },
